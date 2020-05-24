@@ -1,0 +1,12 @@
+{
+    "MQTTClientID": "AzureDataplatform",
+    "MQTTClientUsername": "cah@byg.dtu.dk",
+    "MQTTClientPassword": "mnndAG28",
+    "MQTTBrokerHost": "mqtt.remoni.com",
+    "MQTTBrokerPort": 8883,
+    "MQTTSubscription": "remoni-8477/data/+",
+    "EventHubURL": "amqps://dpx-202-1-eventhub.servicebus.windows.net/26661-sca",
+    "EventHubPolicyName": "devices",
+    "EventHubPrimaryKey": "2D9vXoTmt1mwVbpuiGXnWqAjTbXtgXGRC2Bto19hUFQ",
+    "EventHubBatchTimer": "60"
+}
